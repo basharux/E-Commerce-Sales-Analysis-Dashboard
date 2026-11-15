@@ -119,5 +119,7 @@ To rebuild the cleaned file from scratch, download the raw Excel file, place it 
 
 ## 👤 Author
 
-**Bashar Hayat**: B.Tech Computer Science Student | Aspiring Data Analyst
+**Bashar Hayat**: Final-year B.Tech Computer Science student | Aspiring Data Analyst
+Completed a 6-month *Certificate in Data Analytics* at Dzine Solutions (Aug 2025 to Feb 2026) covering Python, MySQL, Advanced Excel and Power BI.
+
 [LinkedIn](https://linkedin.com/in/basharhayat) · [GitHub](https://github.com/basharux)

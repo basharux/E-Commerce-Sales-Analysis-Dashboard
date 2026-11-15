@@ -10,7 +10,7 @@ import streamlit as st
 # PAGE CONFIG
 # =====================================================
 st.set_page_config(
-    page_title="Online Retail Analytics Dashboard",
+    page_title="🛒 E-Commerce Sales Analysis Dashboard",
     page_icon="🛒",
     layout="wide"
 )

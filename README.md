@@ -119,5 +119,5 @@ To rebuild the cleaned file from scratch, download the raw Excel file, place it 
 
 ## 👤 Author
 
-**Bashar Hayat**: Data Analyst | B.Tech Computer Science
+**Bashar Hayat**: B.Tech Computer Science Student | Aspiring Data Analyst
 [LinkedIn](https://linkedin.com/in/basharhayat) · [GitHub](https://github.com/basharux)

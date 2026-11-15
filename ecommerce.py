@@ -279,7 +279,7 @@ hr { border-color: rgba(0, 180, 216, 0.2); }
 # =====================================================
 # TITLE + SIDEBAR FILTERS
 # =====================================================
-st.title("🛒 Online Retail Analytics Dashboard")
+st.title("🛒 E-Commerce Sales Analysis Dashboard")
 st.caption(
     "Real transactions of a UK-based online retailer "
     "(public UCI / Kaggle 'Online Retail' dataset). Currency: £"

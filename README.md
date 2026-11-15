@@ -69,6 +69,7 @@ Cancelled orders are kept separate from sales so revenue is not understated, and
 
 - **Python**
 - **Pandas, NumPy**: data cleaning and analysis
+- **Excel (.xlsx)**: raw data source, loaded with Pandas and openpyxl
 - **Plotly**: interactive charts and world map
 - **Streamlit**: dashboard and deployment (Streamlit Community Cloud)
 
